@@ -1,6 +1,6 @@
 **Library Management System**
 
-**Library Management System** is a backend API for managing books in a library. It offers CRUD operations for books and provides a foundation to build a complete library management solution. The system uses MongoDB for data storage and Express.js for handling API routes.
+Library Management System is a backend API for managing books in a library. It offers CRUD operations for books and provides a foundation to build a complete library management solution. The system uses MongoDB for data storage and Express.js for handling API routes.
 
 ---
 ## 📋 **Features**
