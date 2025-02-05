@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViditJain123/LibraryManagementSystem.git"
+    "url": "git+https://github.com/shrutirout/Library-Management-System.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ViditJain123/LibraryManagementSystem/issues"
+    "url": "https://github.com/shrutirout/Library-Management-System/issues"
   },
-  "homepage": "https://github.com/ViditJain123/LibraryManagementSystem#readme",
+  "homepage": "https://github.com/shrutirout/Library-Management-System#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
